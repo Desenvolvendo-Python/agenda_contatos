@@ -21,31 +21,35 @@
 o campo favorito vem por padrão com o valor de False onde é feita a alteração na opçãp 4. Favoritar/Desfavoritar contato
 
 ### Funcionamento:
-![alt text](image.png)
+<img src="assets/image.png">
 
 ### Adicionar contato:
-![alt text](image-1.png)
+<img src="assets/image-1.png">
 
 ### Listar contatos:
-![alt text](image-2.png)
+<img src="assets/image-2.png">
 
 ### Atualizar contato:
-![alt text](image-3.png)
+<img src="assets/image-3.png">
 
 ### Favoritar/Desfavoritar contato:
 
 #### Favoritar:
-![alt text](image-4.png)
+<img src="assets/image-4.png">
+
 
 #### Desfavoritar:
-![alt text](image-7.png)
+<img src="assets/image-7.png">
+
 
 
 ### Listar contatos favoritados:
-![alt text](image-8.png)
+<img src="assets/image-8.png">
+
 
 ### Deletar contato:
-![alt text](image-6.png)
+<img src="assets/image-6.png">
+
 
 
 
