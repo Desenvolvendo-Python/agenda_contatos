@@ -47,7 +47,7 @@ def favoritar_contato(contatos, indice):
 def listar_favoritos(contatos):
     print("\n Lista de favoritos: ")
 
-    for indice, contato in enumerate(contatos):
+    for indice, contato in enumerate(contatos, start=1):
         if contato['favorito']:
             print(f"{indice}. [✓] Nome: {contato['nome']} - telefone: {contato['telefone']} - e-mail: {contato['email']}")
     return
@@ -68,7 +68,7 @@ contatos = []
 while True:
     print("\nGerenciamento de contatos\n")
     print("1. Adicionar contato")
-    print("2. Ver contatos")
+    print("2. Listar contatos")
     print("3. Atualizar contato")
     print("4. Favoritar/Desfavoritar contato")
     print("5. Listar contatos favoritados")
